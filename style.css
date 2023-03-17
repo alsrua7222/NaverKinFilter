@@ -1,0 +1,9 @@
+popup {
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: green;
+    color: red;
+    font-size: 2em;
+    font-weight: bold;
+}

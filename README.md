@@ -1,2 +1,9 @@
-# NaverKinFilter
-Filter chrome extension for NaverKin.
+# Build Version (Current = 2)
+
+## 2
+### 1.0.1
+- 질문수, 채택률, 마감률 돋보이도록 시각화 추가
+
+## 1
+### 1.0.0, Beta
+- 뼈대
